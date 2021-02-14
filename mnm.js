@@ -1,1 +1,2 @@
-gkjhkh
+function kk () {
+}
